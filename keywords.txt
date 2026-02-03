@@ -1,0 +1,10 @@
+ColorSensor	KEYWORD1
+Color	KEYWORD1
+
+begin	KEYWORD2
+readColor	KEYWORD2
+
+Red	LITERAL1
+Blue	LITERAL1
+Black	LITERAL1
+Other	LITERAL1
