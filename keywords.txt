@@ -1,10 +1,26 @@
+# ===== Classes / Structs =====
 ColorSensor	KEYWORD1
 Color	KEYWORD1
+ColorRGB	KEYWORD1
 
+# ===== Methods =====
 begin	KEYWORD2
 readColor	KEYWORD2
+readRGB	KEYWORD2
+add	KEYWORD2
 
-Red	LITERAL1
-Blue	LITERAL1
-Black	LITERAL1
-Other	LITERAL1
+# ===== Static / Common Objects =====
+unknownColor	LITERAL1
+
+# ===== Color Fields =====
+redMin	LITERAL2
+redMax	LITERAL2
+greenMin	LITERAL2
+greenMax	LITERAL2
+blueMin	LITERAL2
+blueMax	LITERAL2
+
+# ===== RGB Fields =====
+red	LITERAL2
+green	LITERAL2
+blue	LITERAL2
