@@ -3,7 +3,7 @@
 ColorSensor colorSens;
 Color colorRed(150, 255, 0, 90, 0, 90);
 Color colorBlue(0, 90, 0, 90, 150, 255);
-Color colorBlack(110, 255, 110, 255, 110, 255);
+Color colorBlack(150, 200, 100, 150, 30, 80);
 
 void setup()
 {
